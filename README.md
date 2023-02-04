@@ -10,13 +10,6 @@ With this simpel sVanilia JavaScript all images add the attribut width and heigh
 
 - Silvio Endruhn [@Silvioen](https://github.com/Silvioen)
 
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://endruhn.de/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvioendruhn/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/endruhn/)
-
-
 ## 🚀 About Me 🚀 Silvio Endruhn | Mediadesigner
 Creating professional websites according to the latest standards is my craft. I design individual layouts according to the ideas of my customers or bring the outdated site up to date.
 
@@ -25,6 +18,10 @@ My services include (almost) everything that has to do with WordPress. Consultin
 Other services are in the area of frontend development, besides HTML, CSS and JavaScript, I offer services for Vue.js, React, TypeScript, Node.js and many other frontend technologies.
 
 Services in the area of SEO and SEA can also be booked with me, starting with keyword analysis, technical SEO, landing pages and my own Merchant Center.
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://endruhn.de/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvioendruhn/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/endruhn/)
 ## Badges
 
 
